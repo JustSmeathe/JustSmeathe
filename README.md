@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/1136207003019137065/1136684222417997937/image_2023-08-03_233613852-removebg-preview.png">
 </p>
 
-### Hi there 👋, I am [Smeathe](https://discord.gg/screwy)! 😁
+### Hi there 👋, I am [Smeathe](https://discord.gg/jKzemwFndr)! 😁
 <!--
 **github.com/JustSmeathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
